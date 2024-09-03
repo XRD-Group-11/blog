@@ -1,3 +1,5 @@
+# Exercise 1
+
 • What is AR/VR/AV/MR/XR and how do the terminologies compare?
 AR (Augmented Reality) : Is virtually implementing technology on real world views.
 VR (Virtual Reality) : The creation of a Virtual World that we can access through some sort of Hardware.
