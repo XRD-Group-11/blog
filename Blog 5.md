@@ -20,3 +20,8 @@ We came up with the idea of converting CS 1.6 into a VR game. With that said, CS
 ## Assets
 
 We have decided to use the original textures, sounds and models from the original game. This task might sound easy since we can just go to game files and copy the assets, but the original game uses specific file extensions. In the end we have found the de_dust2 map on the internet in .obj format with all of the textures. The sounds we have pulled from the original game files and the gun model we have converted from .mdl to .fbx using a blender plugin.
+
+
+## Implementation 
+
+When it comes to implementation, for now. The Dust2 map is integrated along with AK-47, it is possible to move around the map and that is about it. Also, we have modeled the AK-47 to have a detachable magazine inside the blender.
